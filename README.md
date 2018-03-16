@@ -15,13 +15,6 @@ to find and match the identical pictures.
 - "medium" has 6 pairs of cards
 - "hard" has 8 pairs of cards
 
-## Screenshots
-
-[](https://imgur.com/a/RK7FI)
-![](https://imgur.com/a/Xzfr2)
-![](https://imgur.com/a/bzWiC)
-![](https://imgur.com/a/8P3bN)
-
 ## Special Features
 
 - Player can choose between "easy", "medium" and "hard" mode
