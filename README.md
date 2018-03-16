@@ -17,10 +17,10 @@ to find and match the identical pictures.
 
 ## Screenshots
 
-!['o' output](https://imgur.com/a/RK7FI)
-!['o' output](https://imgur.com/a/Xzfr2)
-!['o' output](https://imgur.com/a/bzWiC)
-!['o' output](https://imgur.com/a/8P3bN)
+[](https://imgur.com/a/RK7FI)
+![](https://imgur.com/a/Xzfr2)
+![](https://imgur.com/a/bzWiC)
+![](https://imgur.com/a/8P3bN)
 
 ## Special Features
 
